@@ -1,0 +1,6 @@
+C:\djangogirls>myenv\Scripts\activate
+
+To type additional commands while the web server is running, 
+open a new terminal window and activate your virtualenv.
+
+tao env -> project: mysite -> app: blog -> set blog belong to mysite in mysite/settings.py ->  
